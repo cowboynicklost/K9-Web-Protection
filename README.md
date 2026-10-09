@@ -219,4 +219,4 @@ K9 Web Protection is a full free version with all features and updates included.
 Protect your loved ones today! Download K9 Web Protection now for a safe browsing experience!
 
 ---
-**Last updated:** 2026-10-08 21:55:46 UTC
+**Last updated:** 2026-10-09 01:56:30 UTC
